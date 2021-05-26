@@ -18,11 +18,11 @@
 
 第三步，用Github账号登录Vercel，点击创建项目，导入fork的本仓库，如图。
 
-(https://github.com/xJogger/wx_push_vercel/raw/master/img/1.jpg)
+<img src="https://raw.githubusercontent.com/xJogger/wx_push_vercel/main/img/1.jpg" />
 
 第四步，设置参数。
 
-(https://github.com/xJogger/wx_push_vercel/raw/master/img/2.jpg)
+<img src="https://raw.githubusercontent.com/xJogger/wx_push_vercel/main/img/2.jpg" />
 
 如图，首先设置你的项目名，也是之后的域名前缀。之后将之前获取的企业ID（CORP_ID），应用ID（AGENT_ID）和应用secret（AGENT_SECRET）分别设置为环境变量。同时，设置一个复杂的PUSH_SCKEY，防止别人盗用你的接口。
 
