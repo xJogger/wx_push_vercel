@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/(.*)", "dest": "/api/wx_push_vercel" }
+  ]
+}
