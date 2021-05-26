@@ -24,7 +24,7 @@
 
 <img src="https://raw.githubusercontent.com/xJogger/wx_push_vercel/main/img/2.jpg" />
 
-如图，首先设置你的项目名，也是之后的域名前缀。之后将之前获取的企业ID（CORP_ID），应用ID（AGENT_ID）和应用secret（AGENT_SECRET）分别设置为环境变量。同时，设置一个复杂的PUSH_SCKEY，防止别人盗用你的接口。
+如图，首先设置你的项目名，也是之后的域名前缀。之后设置程序根目录为vercel（中间那个红框），最后将之前获取的企业ID（CORP_ID），应用ID（AGENT_ID）和应用secret（AGENT_SECRET）分别设置为环境变量。同时，设置一个复杂的PUSH_SCKEY，防止别人盗用你的接口。
 
 最后，点击Deply部署即可。
 
